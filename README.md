@@ -19,33 +19,33 @@ First create a copy of the template and name it what you want. In my case I'll c
 
 Now open the DDS file of the flag you want to edit in your image editor. I have included a black with the flagpole hooks still attached.
 
-IMAGE HERE
+![Open DDS](https://i.imgur.com/cNdnL9p.png)
 
 Now create the flag you want using that size dimension, Im not going to do an image editing tutorial. Alternatively paste an image of an existing flag over it. 
 
-IMAGE HERE
+![Create Flag](https://i.imgur.com/JJUxjqn.png)
 
 Now save it to the flag name that you want to replace AS A DDS. In my case im using prop_flag_us as the name as I am replacing the US flag.
 
 Once saved Open up texture toolkit, load up a flag yft you are replacing (You could replace every flag if you want). There are usually multiple per flag. You do have to do this one at a time. 
 For US flag replacement it includes: prop_flag_us prop_flag_us_s prop_flag_usboat prop_flagpole_2b
 
-IMAGE HERE
+![Save DDS](https://i.imgur.com/nvpgDnu.png)
 
 Go to Edit - import - and choose your dds file you created
 
-IMAGE HERE
+![import](https://i.imgur.com/ct443dl.png)
 
 Save that. Rinse and repeat till you have replaced all the flags you want.
 
 Delete the flags you didnt replace.
 
-IMAGE HERE
+![Folder](https://i.imgur.com/wRC3Yun.png)
 
 Now move that folder to your server resources, and add the start to your your server.cfg. In my case, start Flag_Tutorial
 
 Start/Restart your server and the flag will be there.
 
-IMAGE HERE
+![Results](https://i.imgur.com/MOkwfAg.jpg)
 
 Enjoy! Ill be posting a few other flags today! So stay tuned. You can find me on discord at discord.glassrp.com
